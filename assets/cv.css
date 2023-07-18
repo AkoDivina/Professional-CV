@@ -1,5 +1,6 @@
 .cv-web,
-.cv-web * {
+.cv-web 
+* {
   box-sizing: border-box;
   padding: 0%;
   width: 100%;
@@ -7,7 +8,7 @@
 .cv-web {
   background: #ffffff;
   width: 100%;
-  height: 894px;
+  height: 900px;
   position: relative;
   overflow: hidden;
 }
@@ -48,10 +49,12 @@
 .rectangle-3 {
   background: #d9d9d9;
   width: 40%;
-  height: 641px;
+  height: 1200px;
   position: absolute;
   left: 40px;
   top: 253px;
+  border: 2px;
+  border-radius: 12px;
 }
 .ellipse-2 {
   border-radius: 50%;
@@ -278,4 +281,18 @@
   position: absolute;
   left: 50%;
   top: 785px;
+}
+.button{
+  /* background-color: black; */
+  font-weight: 900;
+  font-family: "poppins", Arial, Helvetica, sans-serif;
+  color:black;
+  margin-left: 46%;
+  padding: solid 45px;
+}
+button{
+  padding: 15px;
+  border: 2px;
+  border-radius: 15px;
+  background-color: #d9d9d9;
 }
