@@ -1,0 +1,281 @@
+.cv-web,
+.cv-web * {
+  box-sizing: border-box;
+  padding: 0%;
+  width: 100%;
+}
+.cv-web {
+  background: #ffffff;
+  width: 100%;
+  height: 894px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #fffefe;
+  width: 100%;
+  height: 796px;
+  position: absolute;
+  left: 37px;
+  top: 70px;
+}
+.ellipse-1 {
+  background: #fffefe;
+  border-radius: 50%;
+  width: 237px;
+  height: 240px;
+  position: absolute;
+  left: 65px;
+  top: 145px;
+}
+.rectangle-2 {
+  background: #000000;
+  width: 100%;
+  height: 183px;
+  position: absolute;
+  left: 37px;
+  top: 70px;
+}
+.ui-ux-web-de-vl {
+  color: #fffdfd;
+  text-align: center;
+  font: 700 14px/20px "Times New Roman", sans-serif;
+  position: absolute;
+  left: 322px;
+  top: 176px;
+}
+/* left side */
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 40%;
+  height: 641px;
+  position: absolute;
+  left: 40px;
+  top: 253px;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  width: 209px;
+  height: 212px;
+  position: absolute;
+  left: 74px;
+  top: 161px;
+}
+.ellipse-6,
+.ellipse-6 * {
+  box-sizing: border-box;
+}
+.ellipse-6 {
+  background: #fbf8f8;
+  border-radius: 50%;
+  width: 245px;
+  height: 240px;
+  position: relative;
+}
+
+.ako-divina {
+  color: #fffefe;
+  text-align: center;
+  font: 400 48px/20px "Times New Roman", sans-serif;
+  position: absolute;
+  left: 20%;
+  top: 119px;
+  width: 50%;
+  height: 85px;
+}
+._237-653-901-853 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 60px;
+  top: 456px;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Times New Roman", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 484px;
+}
+.divinako-963-gmil-com {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 65px;
+  top: 507px;
+}
+.telephone {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Times New Roman", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 433px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Times New Roman", sans-serif;
+  position: absolute;
+  left: 101px;
+  top: 399px;
+  width: 135px;
+  height: 42px;
+}
+.competences {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Inter", sans-serif;
+  position: absolute;
+  left: 56px;
+  top: 534px;
+}
+.html-css-figma-wordpress-content-writing {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 67px;
+  top: 558px;
+}
+.follow-me {
+  color: #000000;
+  text-align: left;
+  font: 700 16px "Inter", sans-serif;
+  position: absolute;
+  left: 57px;
+  top: 640px;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 68px;
+  top: 649px;
+  width: 215px;
+  height: 219px;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span2 {
+  color: #000000;
+  font: 700 13px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span3 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span4 {
+  color: #000000;
+  font: 700 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span5 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span6 {
+  color: #000000;
+  font: 700 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span7 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span8 {
+  color: #000000;
+  font: 700 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span9 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span10 {
+  color: #000000;
+  font: 700 12px "Inter", sans-serif;
+}
+.facebook-facebook-com-ako-divina-linked-in-linkedin-com-in-ako-divina-b-9329925-a-git-hub-git-hub-com-twitter-twitter-com-divina-237-youtube-youtube-com-akodivina-237-span11 {
+  color: #000000;
+  font: 400 12px "Inter", sans-serif;
+}
+.ellipse-3 {
+  border-radius: 50%;
+  width: 50px;
+  height: 65px;
+  position: absolute;
+  left: 45%;
+  top: 265px;
+}
+.about-me {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Inter", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 274px;
+  width: 60%;
+  height: 23px;
+
+}
+
+.ellipse-4 {
+  border-radius: 50%;
+  width: 50px;
+  height: 82px;
+  position: absolute;
+  left: 45%;
+  top: 498px;
+}
+.experience {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Inter", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 515px;
+}
+.lorem-ipsum-dior-professionnel-dot-de-2-ann-es-d-exp-rience-dans-le-d-veloppement-dessolutions-fin-tech-orient-es-vers-le-web-combin-es-une-solide-formation-dans-le-domaine-du-cloud-et-serveurs-virtuels-et-une-forte-aptitude {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 582px;
+}
+.content-writer {
+  color: #000000;
+  text-align: left;
+  font: 700 14px "Inter", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 561px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  width: 55px;
+  height: 70px;
+  position: absolute;
+  left: 45%;
+  top: 712px;
+}
+.education {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 717px;
+}
+.lorem-ipsum-quelque-chose {
+  color: #000000;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 785px;
+}
